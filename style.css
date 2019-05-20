@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:500i&display=swap');
+
+*{
+	margin:0;
+	padding: 0;
+}
+
+body{
+	background-color: grey;
+	margin: 0px;
+}
+
+#particles-js{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(source1.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.line{
+	background-color: black;
+	height: 37px;
+}
+
+.line2{
+	background-color: white;
+	height: 4px;
+}
+
+.class{
+	background-color: 
+}
+
+ul li.active a{
+	background-color: white;
+	color: black;
+}
+
+ul{
+	float: right;
+	margin: 10px;
+}
+
+ul li{
+	display: inline-block;
+	font-family: 'Oswald', sans-serif;
+}
+
+ul li a{
+	color: white;
+	border: 1px solid transparent;
+	margin: 5px;
+	margin-top: 5px;
+	text-decoration: none;
+	padding: 5px 20px;
+}
+
+ul li a:hover{
+	background-color: white;
+	color: black;
+}
+
+.tell{
+	margin: 100px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 70px;
+}
+
+
+.wel1{
+	margin-left: 30%;
+	position: absolute;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+.wel2{
+	margin-top: 50%;
+	font-size: 80px;
+}
+
+h3{
+	margin-left: 10%;
+}
+
+.btn1{
+	margin-left: 6%;
+	font-size: 40px;
+	background-color: #000;
+	color: white;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.btn2{
+	margin-left: 0%;
+	font-size: 40px;
+	background-color: #000;
+	color: white;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.btn1:hover,.btn2:hover{
+	background-color: white;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
